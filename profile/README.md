@@ -9,3 +9,4 @@ Csapatok és repositoryk
 - [Smart WareHouse](https://github.com/2024-2026e-vp-vizsgaremek/smart-warehouse): Bálint László, Kali Endre
 - [Könyvfórum](https://github.com/2024-2026e-vp-vizsgaremek/konyvforum): Becsei Ákos, Kondacs Pál, Posztós Balázs
 - [Atomic](https://github.com/2024-2026e-vp-vizsgaremek/atomic): Illés Regina, Füle Zsolt, Tokaji Ticián
+- [Könyváruház](https://github.com/2024-2026e-vp-vizsgaremek/konyvaruhaz): Csehók Csaba, Kecskés Olivér, Kiss Bálint
